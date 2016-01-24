@@ -1,2 +1,4 @@
 # rep
-Man repository
+Main repository
+
+Ulugbek Adilbekov
