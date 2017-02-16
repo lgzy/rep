@@ -1,3 +1,4 @@
+//scored 249242	points
 #include <iostream>
 #include <vector>
 #include <map>
